@@ -7,6 +7,10 @@ permalink: /
 ---
 
 # Interactive Visualization & Society
+
+{: .new }
+Check out the [final project showcase](https://vis-society.github.io/final-project/showcase/)! 
+
 The world is awash with increasing amounts of data, and we must keep afloat with our relatively constant perceptual and cognitive abilities. Visualization provides one means of combating information overload, as a well-designed visual encoding can supplant cognitive calculations with simpler perceptual inferences and improve comprehension, memory, and decision making. Moreover, visual representations may help engage more diverse audiences in the process of analytic thinking.
 
 By the end of this course, you should expect to be able to:
