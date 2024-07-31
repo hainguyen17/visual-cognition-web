@@ -26,5 +26,5 @@ callouts:
     color: grey-dk
 
   warning:
-  title: Warning
-  color: red
+    title: Warning
+    color: red
