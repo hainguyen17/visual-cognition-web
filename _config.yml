@@ -1,5 +1,30 @@
-title: IDDV | Data Viz 2024
+title: ARTG-5310 • Visual Cognition
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://hainguyen17.github.io
+
+callouts:
+  reading:
+    title: Reading
+    color: blue
+
+  lecture:
+    title: Lecture
+    color: green
+    
+  assignment:
+    title: Assignment
+    color: yellow
+
+  new:
+    title: Announcement
+    color: purple
+
+  note:
+    title: Notes
+    color: grey-dk
+
+  warning:
+  title: Warning
+  color: red

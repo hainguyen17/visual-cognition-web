@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Condo Conversions
-parent: "Theme: Housing Affordability"
+parent: "Theme"
 nav_order: 2
 ---
 

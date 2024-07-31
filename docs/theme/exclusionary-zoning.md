@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exclusionary Zoning
-parent: "Theme: Housing Affordability"
+parent: "Theme"
 nav_order: 6
 ---
 
@@ -27,5 +27,5 @@ One way to jumpstart housing production is zoning reform or upzoning. Zoning is 
 
 ## Related Policies and Proposed Legislation
 
-1. [Affordable Homes Act](https://www.mass.gov/news/healey-driscoll-administration-unveils-4-billion-affordable-homes-act-to-increase-production-and-lower-costs) – See specifically the provision about Inclusionary Zoning by Simple Majority which help make upzoning easier as well as the Accessory Dwelling Units (ADUs) As-Of-Right which would allow anyone to build an in-law apartment or small residence on their existing property as a way to increase density. The bill: [summary](https://www.mass.gov/doc/affordable-homes-act-fact-sheet/download?_ga=2.142434418.1100113556.1703004628-238076166.1695042993&_gl=1%2A1y7afhd%2A_ga%2AMjM4MDc2MTY2LjE2OTUwNDI5OTM.%2A_ga_MCLPEGW7WM%2AMTcwMzE3NjI3MC40LjAuMTcwMzE3NjI3MC4wLjAuMA..), [proposed bill]https://malegislature.gov/Bills/193/H4138).
+1. [Affordable Homes Act](https://www.mass.gov/news/healey-driscoll-administration-unveils-4-billion-affordable-homes-act-to-increase-production-and-lower-costs) – See specifically the provision about Inclusionary Zoning by Simple Majority which help make upzoning easier as well as the Accessory Dwelling Units (ADUs) As-Of-Right which would allow anyone to build an in-law apartment or small residence on their existing property as a way to increase density. The bill: [summary](https://www.mass.gov/doc/affordable-homes-act-fact-sheet/download?_ga=2.142434418.1100113556.1703004628-238076166.1695042993&_gl=1%2A1y7afhd%2A_ga%2AMjM4MDc2MTY2LjE2OTUwNDI5OTM.%2A_ga_MCLPEGW7WM%2AMTcwMzE3NjI3MC40LjAuMTcwMzE3NjI3MC4wLjAuMA..), [proposed bill](https://malegislature.gov/Bills/193/H4138).
 2. [The MBTA Communities Act](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities) – This legislation was enacted by the prior administration (Baker) and the state is now trying to implement it, but it is becoming [controversial in some places](https://www.bostonglobe.com/2024/03/03/business/milton-massachusetts-towns-housing-law). The basic idea is that towns served by the T or Commuter Rail have to upzone around the station service areas, an idea known as “transit-oriented development”.

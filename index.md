@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Interactive Visualization & Society
+# Visual Cognition • Fall 2024 
 
 {: .new }
 Check out the [final project showcase](https://vis-society.github.io/final-project/showcase/)! 
@@ -43,12 +43,12 @@ The class draws heavily on materials and examples found online, and we try our b
 
 ----
 
-[Metropolitan Area Planning Council (MAPC)]: (https://www.mapc.org/aboutus/)
-[101 cities and towns in the Greater Boston Area]: (https://www.mapc.org/get-involved/subregions/)
-[third most expensive housing market in the nation, for both buying and renting]: (https://www.mapc.org/wp-content/uploads/2021/12/10.-MC2050-Homes-for-Everyone-Brief.pdf)
-[a million dollars]: (https://www.zillow.com/home-values/3934/cambridge-ma/)
-[more than half (51%) of Bostonians have to spend more than that just to keep themselves housed]: (https://homesforprofit.mapc.org/report)
-[Virginia’s story]: (https://www.youtube.com/watch?v=j1CjWHoiI9Y)
-[More information on this year’s theme »]: (https://vis-society.github.io/theme)
-[Land Grab University]: (https://www.landgrabu.org/universities/massachusetts-institute-of-technology)
+[Metropolitan Area Planning Council (MAPC)]:https://www.mapc.org/aboutus/
+[101 cities and towns in the Greater Boston Area]:https://www.mapc.org/get-involved/subregions/
+[third most expensive housing market in the nation, for both buying and renting]:https://www.mapc.org/wp-content/uploads/2021/12/10.-MC2050-Homes-for-Everyone-Brief.pdf
+[a million dollars]:https://www.zillow.com/home-values/3934/cambridge-ma/
+[more than half (51%) of Bostonians have to spend more than that just to keep themselves housed]:https://homesforprofit.mapc.org/report
+[Virginia’s story]:https://www.youtube.com/watch?v=j1CjWHoiI9Y
+[More information on this year’s theme »]:https://vis-society.github.io/theme
+[Land Grab University]:https://www.landgrabu.org/universities/massachusetts-institute-of-technology
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Theme: Housing Affordability"
+title: "Theme"
 has_children: true
 nav_order: 3
 # permalink: /theme

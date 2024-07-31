@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Speculation
-parent: "Theme: Housing Affordability"
+parent: "Theme"
 nav_order: 1
 ---
 

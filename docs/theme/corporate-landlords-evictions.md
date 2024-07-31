@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corporate Landlords & Evictions
-parent: "Theme: Housing Affordability"
+parent: "Theme"
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Housing for the Rich
-parent: "Theme: Housing Affordability"
+parent: "Theme"
 nav_order: 3
 ---
 
