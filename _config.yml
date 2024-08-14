@@ -10,7 +10,7 @@ callouts:
     color: blue
 
   lecture:
-    title: Lecture
+    title: Activities
     color: green
     
   assignment:
